@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/10/9 21:31:02。
+     1>项目“C:\Users\XF\documents\visual studio 2015\Projects\编译flex实验\编译flex实验\编译flex实验.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt ..\Debug\lex.yy.c
+         lex.yy.c
+     1>lex.yy.c(1398): warning C4013: “exit”未定义；假设外部返回 int
+     1>lex.yy.c(1445): warning C4013: “malloc”未定义；假设外部返回 int
+     1>lex.yy.c(1463): warning C4013: “realloc”未定义；假设外部返回 int
+     1>lex.yy.c(1473): warning C4013: “free”未定义；假设外部返回 int
+       Link:
+         E:\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\XF\documents\visual studio 2015\Projects\编译flex实验\Debug\flex.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\XF\Documents\Visual Studio 2015\Projects\编译flex实验\编译flex实验\Debug" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib libfl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBC.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\XF\documents\visual studio 2015\Projects\编译flex实验\Debug\flex.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\XF\documents\visual studio 2015\Projects\编译flex实验\Debug\flex.lib" /MACHINE:X86 Debug\lex.yy.obj
+         编译flex实验.vcxproj -> C:\Users\XF\documents\visual studio 2015\Projects\编译flex实验\Debug\flex.exe
+     1>已完成生成项目“C:\Users\XF\documents\visual studio 2015\Projects\编译flex实验\编译flex实验\编译flex实验.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.46

@@ -1,0 +1,24 @@
+﻿生成启动时间为 2015/12/1 20:06:17。
+     1>项目“C:\Users\XF\documents\visual studio 2015\Projects\数据结构上机_第八周\二叉树逐层遍历定义\二叉树逐层遍历定义.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (二叉树逐层遍历定义.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         E:\VS2015\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt code13.cpp
+         code13.cpp
+     1>c:\users\xf\documents\visual studio 2015\projects\数据结构上机_第八周\二叉树逐层遍历定义\code13.cpp(574): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>c:\users\xf\documents\visual studio 2015\projects\数据结构上机_第八周\二叉树逐层遍历定义\code13.cpp(577): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>c:\users\xf\documents\visual studio 2015\projects\数据结构上机_第八周\二叉树逐层遍历定义\code13.cpp(578): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>c:\users\xf\documents\visual studio 2015\projects\数据结构上机_第八周\二叉树逐层遍历定义\code13.cpp(620): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>c:\users\xf\documents\visual studio 2015\projects\数据结构上机_第八周\二叉树逐层遍历定义\code13.cpp(621): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>c:\users\xf\documents\visual studio 2015\projects\数据结构上机_第八周\二叉树逐层遍历定义\code13.cpp(636): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>c:\users\xf\documents\visual studio 2015\projects\数据结构上机_第八周\二叉树逐层遍历定义\code13.cpp(382): warning C4101: “temp”: 未引用的局部变量
+         c:\users\xf\documents\visual studio 2015\projects\数据结构上机_第八周\二叉树逐层遍历定义\code13.cpp(379): note: 编译类 模板 成员函数“void BinaryTree<int>::deleteLeaves(BinaryTreeNode<int> *)”时
+         c:\users\xf\documents\visual studio 2015\projects\数据结构上机_第八周\二叉树逐层遍历定义\code13.cpp(738): note: 参见对正在编译的函数 模板 实例化“void BinaryTree<int>::deleteLeaves(BinaryTreeNode<int> *)”的引用
+         c:\users\xf\documents\visual studio 2015\projects\数据结构上机_第八周\二叉树逐层遍历定义\code13.cpp(695): note: 参见对正在编译的类 模板 实例化“BinaryTree<int>”的引用
+       Link:
+         E:\VS2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\XF\documents\visual studio 2015\Projects\数据结构上机_第八周\x64\Debug\二叉树遍历_前中构造_中后构造.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\XF\documents\visual studio 2015\Projects\数据结构上机_第八周\x64\Debug\二叉树遍历_前中构造_中后构造.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\XF\documents\visual studio 2015\Projects\数据结构上机_第八周\x64\Debug\二叉树遍历_前中构造_中后构造.lib" /MACHINE:X64 x64\Debug\code13.obj
+         二叉树逐层遍历定义.vcxproj -> C:\Users\XF\documents\visual studio 2015\Projects\数据结构上机_第八周\x64\Debug\二叉树遍历_前中构造_中后构造.exe
+     1>已完成生成项目“C:\Users\XF\documents\visual studio 2015\Projects\数据结构上机_第八周\二叉树逐层遍历定义\二叉树逐层遍历定义.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.06

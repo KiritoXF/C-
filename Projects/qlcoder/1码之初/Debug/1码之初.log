@@ -1,0 +1,21 @@
+﻿生成启动时间为 2017/3/16 19:12:17。
+     1>项目“C:\Users\XF\documents\visual studio 2015\Projects\qlcoder\1码之初\1码之初.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt code1.cpp
+         code1.cpp
+     1>c:\users\xf\documents\visual studio 2015\projects\qlcoder\1码之初\code1.cpp(34): error C2955: “std::vector”: 使用 类 模板 需要 模板 参数列表
+         e:\vs2015\vc\include\vector(678): note: 参见“std::vector”的声明
+     1>c:\users\xf\documents\visual studio 2015\projects\qlcoder\1码之初\code1.cpp(34): error C2143: 语法错误: 缺少“;”(在“[”的前面)
+     1>c:\users\xf\documents\visual studio 2015\projects\qlcoder\1码之初\code1.cpp(34): error C2337: “a”: 未找到特性
+     1>c:\users\xf\documents\visual studio 2015\projects\qlcoder\1码之初\code1.cpp(34): error C2337: “b”: 未找到特性
+     1>c:\users\xf\documents\visual studio 2015\projects\qlcoder\1码之初\code1.cpp(34): error C2059: 语法错误:“=”
+     1>c:\users\xf\documents\visual studio 2015\projects\qlcoder\1码之初\code1.cpp(35): error C2143: 语法错误: 缺少“;”(在“[”的前面)
+     1>c:\users\xf\documents\visual studio 2015\projects\qlcoder\1码之初\code1.cpp(35): error C2337: “b”: 未找到特性
+     1>c:\users\xf\documents\visual studio 2015\projects\qlcoder\1码之初\code1.cpp(35): error C2337: “a”: 未找到特性
+     1>c:\users\xf\documents\visual studio 2015\projects\qlcoder\1码之初\code1.cpp(35): error C2059: 语法错误:“=”
+     1>c:\users\xf\documents\visual studio 2015\projects\qlcoder\1码之初\code1.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+     1>已完成生成项目“C:\Users\XF\documents\visual studio 2015\Projects\qlcoder\1码之初\1码之初.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:09.78
